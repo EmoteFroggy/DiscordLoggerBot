@@ -1,6 +1,6 @@
 {
   "name": "discordlogger",
-  "author": "zziger",
+  "author": "EmoteFroggy",
   "repository": "https://github.com/EmoteFroggy/DiscordLoggerBot",
   "version": "1.0.1",
   "dependencies": {
@@ -9,6 +9,6 @@
     "request": "2.88.0"
   },
   "scripts": {
-    "start": "node ."
+    "start": "node index.js"
   }
 }
