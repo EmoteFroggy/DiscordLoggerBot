@@ -1,12 +1,12 @@
 {
   "name": "discordlogger",
   "author": "zziger",
-  "repository": "https://github.com/zziger/DiscordLogger",
+  "repository": "https://github.com/EmoteFroggy/DiscordLoggerBot",
   "version": "1.0.1",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "mongodb": "^3.1.8",
-    "request": "^2.88.0"
+    "discord.js": "11.4.2",
+    "mongodb": "3.1.8",
+    "request": "2.88.0"
   },
   "scripts": {
     "start": "node ."
