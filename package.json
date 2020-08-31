@@ -3,11 +3,12 @@
   "author": "EmoteFroggy",
   "repository": "https://github.com/EmoteFroggy/DiscordLoggerBot",
   "version": "1.0.1",
+  "engines": {
+    "node": "6.14.8"
   "dependencies": {
     "discord.js": "11.4.2",
     "mongodb": "3.1.8",
-    "request": "2.88.0",
-    "npm": "6.14.6"
+    "request": "2.88.0"
   },
   "scripts": {
     "start": "node index.js"
